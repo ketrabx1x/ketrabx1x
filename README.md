@@ -2,7 +2,7 @@
 
 :books: I am currently studying computer science :computer: at a university :mortar_board:
 
-🌱 I’m currently learning programing language like <b>Java</b> and <b>C#</b>
+🌱 I’m currently learning programing language like 🐍<b>Python</b> and <b>C#</b>
 
 👀 I am interested in <b>programming</b> :keyboard: and <b>computer graphics</b> :art:
 
